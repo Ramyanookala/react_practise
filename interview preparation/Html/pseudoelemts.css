@@ -1,0 +1,13 @@
+/*selector::pseudo-element {
+    property: value;
+  }
+*/
+The ::first-line pseudo-element is used to add a special style to the first line of a text.
+
+The following example formats the first line of the text in all <p> elements:
+
+p::first-letter {
+    color: #ff0000;
+    font-variant: small-caps;
+
+}

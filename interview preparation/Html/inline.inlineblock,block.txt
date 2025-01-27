@@ -1,0 +1,38 @@
+<p> and <div> are two commonly used tags in block elements.
+The <p> element defines a paragraph in an HTML document.
+The <div> element defines a division or a section in an HTML document.
+There are more tags in the block–level elements
+<article> - It is Self-contained and independent content.
+<aside> - Inside <aside> the content is often placed at the sidebar in a document.
+<div> - It is the container for HTML elements.
+<fieldset> - It is used to group the same or related items.
+<figcaption> - It defines the caption for <figure> element.
+<figure> - This tag contains content like illustrations, figures, images, etc.
+<footer> - In <footer> it defines the footer of the section.
+<form> - This tag is used to get information from the user input.
+<h1>-<h6> - This tag defines HTML headings, where h1 is largest and h6 is smallest.
+<header> -The <header> Container of Heading of the page
+<hr> - This tag is used for separate content using horizontal lines.
+<li> - This tag is used to add list items, ordered(<ol>) or unordered lists (<ul>).
+<main> - We used the main tag to add the main content.
+<nav> - Add navigation links.
+<section>- Add a section.
+<table> - Add a table.
+
+
+Inline Elements in HTML
+Inline elements in HTML never start from a new line and it only covers the width according to the size of bounded tags in the HTML element. The Inline elements in HTML can appear in the section under the <body> tag of an HTML page.
+
+These are some Inline elements in HTML.
+<a> - It is used to link other web pages. This inline tag is known as an anchor tag and the most important attribute of this tag is the href because it indicates the destination of the link.
+<b> - This tag makes the text bold.
+<br> - This tag is used to insert a line break and has no end tag.
+<button> - This tag is used to create a clickable button.
+<code> - To add computer code.
+<img> - To link image addresses.
+<input> - This tag is used to get user input text where users can enter the required data
+<span> - This tag highlights a text or part of a document.
+<textarea> - It is used to get input data from users in multiline form.
+Inline elements in HTML examples
+
+
